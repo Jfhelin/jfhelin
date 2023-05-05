@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Jonas - I work at GitHub as a Cloud Solutions Engineer. I'm helping customers navigate the area between Azure / Azure DevOps / GitHub. I'm also trying to spread GitHub vision, best practises to my Microsoft collegues.    
+
+- 🐱 I’m currently working with Copilot and Azure DevOps Advanced Security enablement  
+- 🌱 I’m currently trying to understand AI advancements and how it might effect us all 
+- 🐦 Hit me up on [LinkedIn](https://www.linkedin.com/in/jonas-helin-ab014114/)
+- 🥏 Hoping to compete in Beach Ultimate Clubs Championship in Sardinia in September
+- ⚡ Fun fact: Kids are moving out, just moved from a house back into the city to see some people 
+
 <!--
 **Jfhelin/jfhelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
